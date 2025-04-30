@@ -1,0 +1,25 @@
+@media (max-width:600px){
+    .container{
+        width: 100vw;
+    }
+    .title{
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width:800px){
+    .container{
+        width: 80vw;
+    }
+}
+
+@media (max-width:1200px){
+    .container{
+        width: 75vw;
+    }
+}
+@media (min-width:2200px){
+    .container{
+        width: 40vw;
+    }
+}
